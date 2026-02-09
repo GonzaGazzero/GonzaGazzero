@@ -9,7 +9,6 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as **Frontend Developer at Mango Cash**
 - 💼 **4+ years** of freelance web development experience
 - 🎓 Studying **Information Systems Engineering** at UTN
 - 🌱 Specialized in **React, TypeScript, Firebase & Modern Web Architecture**
@@ -117,19 +116,6 @@ const myProjects = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GonzaGazzero&theme=tokyonight&hide_border=true&background=1a1f2e&ring=4a90e2&fire=5b9bd5&currStreakLabel=4a90e2" alt="GitHub Streak" />
 </p>
 
-<br>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GonzaGazzero&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
-
-<br>
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GonzaGazzero&theme=tokyo-night&hide_border=true&bg_color=1a1f2e&color=4a90e2&line=5b9bd5&point=c9d1d9" alt="Contribution Graph" />
-</p>
 
 <br>
 
@@ -149,27 +135,6 @@ const myProjects = {
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
-
-<br>
-
-### 💼 Professional Experience
-
-```yaml
-Current_Position:
-  company: "Mango Cash"
-  role: "Frontend Developer"
-  period: "Nov 2024 - Present"
-  description: "Web app development with React & TypeScript"
-
-Freelance:
-  role: "Full-Stack Web Developer"
-  period: "2022 - Present"
-  achievements:
-    - "Built commercial management systems (85% time reduction)"
-    - "Developed e-commerce platforms with real-time features"
-    - "Created professional corporate websites"
-    - "Integrated WhatsApp API, Firebase Auth, PDF generation"
-```
 
 <br>
 
