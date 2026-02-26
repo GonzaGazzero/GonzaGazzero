@@ -140,8 +140,8 @@ const myProjects = {
 
 ### 🎓 Education
 
-- 🎓 **Information Systems Engineering** - National Technological University (UTN-FRC) | 2025 - Present
-- 🎓 **University Degree in Programming** - National Technological University (UTN-FRC) | 2022 - 2025
+- 🎓 **University Degree in Programming** - National Technological University (UTN-FRC) | 2025 - Present
+- 🎓 **Information Systems Engineering** - National Technological University (UTN-FRC) | 2022 - 2025
 - 🎓 **High School Diploma** - Economics & Administration | 2015 - 2020
 
 <br>
