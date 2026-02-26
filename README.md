@@ -149,7 +149,7 @@ const myProjects = {
 ### 📫 Get in Touch
 
 - 💼 Open to **freelance projects** and **full-time opportunities**
-- 🌐 Portfolio: Coming soon!
+- 🌐 Portfolio: https://portfolio-gonzalo.netlify.app
 - 📧 Email: **gonzagazzero@gmail.com**
 - 📱 Phone: **+54 3467 435723**
 - 📍 Location: **Villa María, Córdoba, Argentina**
