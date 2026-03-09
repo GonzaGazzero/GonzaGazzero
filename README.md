@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 💼 **4+ years** of freelance web development experience
-- 🎓 Studying **Information Systems Engineering** at UTN
+- 🎓 Studying **University Degree in Programming** at UTN
 - 🌱 Specialized in **React, TypeScript, Firebase & Modern Web Architecture**
 - 💡 Built systems that **reduced operational time by 85%**
 - 🚀 Creator of full-stack e-commerce platforms and commercial management systems
@@ -102,20 +102,6 @@ const myProjects = {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
   </a>
 </p>
-
-<br>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GonzaGazzero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1f2e&title_color=4a90e2&icon_color=5b9bd5&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GonzaGazzero&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=1a1f2e&title_color=4a90e2&text_color=c9d1d9" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GonzaGazzero&theme=tokyonight&hide_border=true&background=1a1f2e&ring=4a90e2&fire=5b9bd5&currStreakLabel=4a90e2" alt="GitHub Streak" />
-</p>
-
 
 <br>
 
